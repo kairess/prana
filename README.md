@@ -14,3 +14,11 @@ Javascript audio library for the modern web. http://howlerjs.com
 https://github.com/mrchimp/tock
 
 Accurate timer for javascript
+
+## Animation.css
+
+http://daneden.github.io/animate.css/
+
+## CSS Gradient Animator
+
+http://www.gradient-animator.com/
