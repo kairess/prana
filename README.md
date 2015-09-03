@@ -1,5 +1,7 @@
-# prana
+# Prana
 The web mirror ball club with Meteor, audio player(Howler) and accurate javascript timer(Tock)
+
+### Music played by 내귀에도청장치
 
 ## Howler
 
