@@ -83,8 +83,8 @@ html, body, div {
 
 #gradient {
 	position: absolute;
-	width: 500px;
-	height: 500px;
+	width: 100px;
+	height: 100px;
 	right: 10px;
 	bottom: 10px;
 }
